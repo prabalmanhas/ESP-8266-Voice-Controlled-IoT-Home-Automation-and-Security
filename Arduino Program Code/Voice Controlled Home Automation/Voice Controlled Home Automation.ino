@@ -1,9 +1,9 @@
 #define BLYNK_PRINT Serial
 /* Fill-in your Template ID (only if using Blynk.Cloud) */
 //#define BLYNK_TEMPLATE_ID   "YourTemplateID"
-#define BLYNK_TEMPLATE_ID "TMPL4Hj6WwmJ"
-#define BLYNK_DEVICE_NAME "ABET PROJECT PRABAL MANHAS"
-#define BLYNK_AUTH_TOKEN "3d4OgO8YI0QYUp0bsVykJT4zgTt_Nd7g"
+#define BLYNK_TEMPLATE_ID ""
+#define BLYNK_DEVICE_NAME ""
+#define BLYNK_AUTH_TOKEN ""
 
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
@@ -14,8 +14,8 @@ char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "MANHAS 2.4G";
-char pass[] = "!theH@wKTurb0929*";
+char ssid[] = "";
+char pass[] = "";
 
 void setup()
 {
