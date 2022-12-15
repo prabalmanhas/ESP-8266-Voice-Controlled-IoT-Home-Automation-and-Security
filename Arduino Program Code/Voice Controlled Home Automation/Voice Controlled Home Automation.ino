@@ -1,6 +1,4 @@
 #define BLYNK_PRINT Serial
-/* Fill-in your Template ID (only if using Blynk.Cloud) */
-//#define BLYNK_TEMPLATE_ID   "YourTemplateID"
 #define BLYNK_TEMPLATE_ID ""
 #define BLYNK_DEVICE_NAME ""
 #define BLYNK_AUTH_TOKEN ""
@@ -8,8 +6,6 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-// You should get Auth Token in the Blynk App.
-// Go to the Project Settings
 char auth[] = BLYNK_AUTH_TOKEN;
 
 // Your WiFi credentials.
