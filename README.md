@@ -1,5 +1,4 @@
-# ESP-8266-Based-Voice-Controlled-IoT-Home-Auomation-and-Security
+__Voice Control IoT Home Automation and Security System :__ The following project involves integrating Google Assistant and Blynk IoT to control all devices in a home or office. Additionally, the project includes an intrusion detection system that utilizes IFTTT platform to send intrusion alerts directly to the user's email. By combining these technologies, the system provides a convenient and efficient method for managing multiple devices remotely. Users can control devices using voice commands through Google Assistant, while the Blynk IoT platform provides a user-friendly interface for controlling and monitoring device metadata. The intrusion detection system adds an extra layer of security, ensuring that users receive alerts in the event of an intrusion. Hence offering an innovative solution for managing devices and enhancing home or office security.
 
-## Voice Control IoT Home Automation and Security System : To control all the devices Google Assistant and Blynk IoT and Intrusion Detection using IFTTT to get intrusion alerts delivered on E-mail.
 
 ![flowchart](https://github.com/prabalmanhas/ESP-8266-Based-Voice-Controlled-IoT-Home-Auomation/blob/main/ReadMe%20Flowchart.jpg)
