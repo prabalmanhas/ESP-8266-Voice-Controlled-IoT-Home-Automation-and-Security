@@ -2,4 +2,3 @@ __Voice Control IoT Home Automation and Security System :__ The following projec
 
 
 ![flowchart](https://github.com/prabalmanhas/ESP-8266-Based-Voice-Controlled-IoT-Home-Auomation/blob/main/ReadMe%20Flowchart.jpg)
-[![Follow on LinkedIn](https://img.shields.io/badge/Follow%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=manhasprabal)
